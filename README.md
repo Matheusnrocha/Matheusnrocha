@@ -15,5 +15,5 @@
 
 ## Como falar comigo
 - ✉️ **Email:** matheus_n_rocha@hotmail.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/SEU-LINK  
+- 🔗 **LinkedIn:** linkedin.com/in/matheusnrocha
 - 🧭 **Local:** Piracicaba/SP — Brasil
