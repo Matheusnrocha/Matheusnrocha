@@ -10,7 +10,7 @@
 ## Projetos em destaque
 - **PiPro** — produto de dados em aviação: backend (FastAPI), modelagem de voos/manutenção, cálculo de horas/ciclos, alertas e painéis.
 - **RAG corporativo** — chatbot com LangChain + DB vetorial, respostas com citações e avaliação de precisão/cobertura.
-- **Bots de automação (TOOLS)** — RPA com Selenium + camada de dados (ETL, regras, KPIs) + Power BI, focado em redução de esforço e confiabilidade.
+- **Bots de automação (Santander)** — RPA com Selenium + camada de dados (ETL, regras, KPIs) + Power BI, focado em redução de esforço e confiabilidade.
   > *Obs.: repositórios com código sensível ficam privados; publico artefatos, amostras e documentação quando possível.*
 
 ## Como falar comigo
